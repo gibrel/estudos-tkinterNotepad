@@ -68,3 +68,6 @@ window.config(menu=main_menu)
 
 window.mainloop()
 # ListFamilyFonts()
+
+# pyinstaller main.py --onefile -n Notepad --noconsole --paths=.\venv\
+
